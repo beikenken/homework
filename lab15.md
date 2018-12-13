@@ -1,5 +1,5 @@
 # 智能蛇实验报告
-   ## 设置相应的字符
+## 设置相应的字符
      char BLANK_CHAR = ' ';
      char WALL_CHAR = '*';
      char SNAKE_HEAD_CHAR = 'H';
@@ -19,7 +19,7 @@
      "*          *",  
      "************",
      };
- ## 初始化变量
+## 初始化变量
      int snakeHeadX = 1, snakeHeadY = 1;
      int snakeBodyX[100] = {0}, snakeBodyY[100] = {0};
      int snakeBodyLen = 0;
