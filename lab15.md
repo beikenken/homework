@@ -1,5 +1,5 @@
 # 智能蛇实验报告
-## 设置相应的字符
+ ## 设置相应的字符
      char BLANK_CHAR = ' ';
      char WALL_CHAR = '*';
      char SNAKE_HEAD_CHAR = 'H';
@@ -19,7 +19,7 @@
      "*          *",  
      "************",
      };
-## 初始化变量
+  ## 初始化变量
      int snakeHeadX = 1, snakeHeadY = 1;
      int snakeBodyX[100] = {0}, snakeBodyY[100] = {0};
      int snakeBodyLen = 0;
@@ -27,7 +27,7 @@
      int willBeLonger = 0;
      int foodX = 0, foodY = 0;
      int gameRunning = 1;
-## 蛇的移动
+  ## 蛇的移动
      void snakeMove(char control){
      map[snakeHeadX][snakeHeadY]=
      BLANK_CHAR; // record the previous snake head position int prevSnakeHeadX=
