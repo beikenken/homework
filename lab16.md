@@ -4,7 +4,7 @@
 按国内现在的情况，可分为：
 ## 1.依靠网站广告获得收入 
 -- 早期的互联网时代主要模式之一，要求网站访问量达到一定规模，人均访问量至少要在万级以上，如三大门户网站。  
- ![image](http://image.so.com/v?src=360pic_normal&z=1&i=0&cmg=f4bb40bc1634b69bd937b0ac3b7f6a4d&q=%E5%B9%BF%E5%91%8A&correct=%E5%B9%BF%E5%91%8A&cmsid=0ffae9576933cf708e8334a4e056c85d&cmran=0&cmras=6&cn=0&gn=0&kn=50#multiple=0&gsrc=51&dataindex=23&id=e304058b0dceecac3627c687708aac67&currsn=0&jdx=23&fsn=110&adsimgsn=0)
+ ![image](http://image.so.com/vsrc=360pic_normal&z=1&i=0&cmg=f4bb40bc1634b69bd937b0ac3b7f6a4d&q=%E5%B9%BF%E5%91%8A&correct=%E5%B9%BF%E5%91%8A&cmsid=0ffae9576933cf708e8334a4e056c85d&cmran=0&cmras=6&cn=0&gn=0&kn=50#multiple=0&gsrc=51&dataindex=23&id=e304058b0dceecac3627c687708aac67&currsn=0&jdx=23&fsn=110&adsimgsn=0)
 ## 2.与传统媒体行业的合作，通过网站的增值服务进行收费
 例如：凤凰网提供的时事节目收费下载，互联星空的电影、电视节目收费  
  
